@@ -11,6 +11,6 @@ This project is an example of implementing Dark Mode / Light Mode using Tailwind
 
 ## Screenshots
 
-![Dark Mode](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Dark Mode](./DarkMode.png)
 
-![Light Mode](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Light Mode](./LightMode.png)
